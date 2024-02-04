@@ -11,7 +11,7 @@ z / Z | Press 'z' or 'Z' to rotate the whole solar system through its z-axis.
 "+"     | Press '+' to zoom in the scene.
 "-"    | Press '-' to zoom out the scene.
 
-![image](https://github.com/lkmllemon/SolarSystemAnimation_Y3S1/assets/76756859/637b4a48-36b9-47ac-802f-76076bfcc7e6 width=200 height=200)
+<img src="https://github.com/lkmllemon/SolarSystemAnimation_Y3S1/assets/76756859/637b4a48-36b9-47ac-802f-76076bfcc7e6" width="200" height="210">
 
 ### First view of the solar system:
 
