@@ -4,6 +4,7 @@
 Action Keys | Descriptions
 --- | --- 
 Space | Press the space key to start the animation.
+--- | --- 
 s/S | Press "s" or "S" to switch or reset the animation.
 
 
