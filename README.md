@@ -5,9 +5,9 @@ Action Keys | Descriptions
 --- | --- 
 Space | Press the space key to start the animation.
 s / S | Press 's' or 'S' to switch or reset the animation.
-x / X | Press 'x' 'X' to rotate the whole solar system through its x-axis.
-y / Y | Press 'y' 'Y' to rotate the whole solar system through its y-axis.
-z / Z | Press 'z' 'Z' to rotate the whole solar system through its z-axis.
+x / X | Press 'x' or 'X' to rotate the whole solar system through its x-axis.
+y / Y | Press 'y' or 'Y' to rotate the whole solar system through its y-axis.
+z / Z | Press 'z' or 'Z' to rotate the whole solar system through its z-axis.
 +     | Press '+' to zoom in the scene.
 -     | Press '-' to zoom out the scene.
 
