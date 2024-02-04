@@ -13,7 +13,7 @@ z / Z | Press 'z' or 'Z' to rotate the whole solar system through its z-axis.
 
 ![image](https://github.com/lkmllemon/SolarSystemAnimation_Y3S1/assets/76756859/637b4a48-36b9-47ac-802f-76076bfcc7e6)
 
-##First view of the solar system:
+## First view of the solar system:
 
 ![image](https://github.com/lkmllemon/SolarSystemAnimation_Y3S1/assets/76756859/42057cd8-f07e-4d7c-a847-556c7ad6bc49)
 
