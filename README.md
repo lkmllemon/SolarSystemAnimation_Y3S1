@@ -3,7 +3,9 @@
 ### Functions in the prompt:
 Action Keys | Descriptions
 --- | --- 
-s/S | Press "s" or "S" to stop the animation.
+Space | Press the space key to start the animation.
+s/S | Press "s" or "S" to switch or reset the animation.
+
 
 ![image](https://github.com/lkmllemon/SolarSystemAnimation_Y3S1/assets/76756859/637b4a48-36b9-47ac-802f-76076bfcc7e6)
 
